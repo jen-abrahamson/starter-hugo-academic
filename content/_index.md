@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Jenna Abrahamson
 date: 2022-10-24
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: features
@@ -19,11 +19,15 @@ sections:
           description: 90%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
+        - name: Python
           description: 100%
-          icon: chart-line
+          icon: python-project
+          icon_pack: fab
+        - name: Remote Sensing
+          description: 10%
+          icon: camera-retro
           icon_pack: fas
-        - name: Photography
+        - name: Statistics
           description: 10%
           icon: camera-retro
           icon_pack: fas
