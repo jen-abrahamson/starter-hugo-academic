@@ -164,11 +164,9 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
           link: '[https://twitter.com/JennaAbrahamson'
         - icon: linkedin
           icon_pack: fab
-          name: Connect
           link: 'https://www.linkedin.com/in/jenna-abrahamson'
       # Automatically link email and phone or display as text?
       autolink: true
