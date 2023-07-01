@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jenna Abrahamson
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jenna
+last_name: Abrahamson
 
 # Status emoji
 status:
@@ -14,34 +14,36 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Geospatial Analytics PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: North Carolina State  University
+    url: https://cnr.ncsu.edu/geospatial/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include remote sensing and data science
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote Sensing
+  - Machine Learning
+  - Bayesian Statistics
+  - Earth Science
+  - Climate Change
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Geospatial Analytics
+      institution: North Carolina State University
+      year: 2021-Present
+    - course: Certificate in Foundations for Data Science
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020
+    - course: BSc in Environmental Science, Geology
+      institution: University of St. Thomas
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +52,22 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'jnabraha@ncsu.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/JennaAbrahamson
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=jnp3sd8AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jen-abrahamson
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jenna-abrahamson/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -74,11 +76,11 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'jnabraha@ncsu.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Geospatial Analytics PhD student in the [SEAL](https://ncsu-seal.netlify.app/) lab at NCSU. My current research interests focus on using remote sensing to locate and characterize land surface changes across regional to global scales in near-real time. Additionally, I am also interested in developing methods to better map short-term inundation changes through time and their subsequent impact on biogeochemical processes related to carbon storage and methane emissions. More broadly, I have an interest in developing remote sensing methods that use principles from machine learning, data assimilation, and Bayesian statistics to help us understand changes on earth and their impact on global climate change.
 {style="text-align: justify;"}
