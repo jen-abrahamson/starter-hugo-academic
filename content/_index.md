@@ -93,7 +93,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Recent News
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -119,26 +119,15 @@ sections:
       columns: '2'
   - block: markdown
     content:
-      title: Gallery
+      title: Visualization Gallery
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
     design:
       columns: '1'
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -153,7 +142,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Presentations
       filters:
         folders:
           - event
@@ -168,38 +157,21 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Contact Me
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      Feel free to reach out to me! I welcome the chance to connect and collaborate with others.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      email: jnabraha@ncsu.edu
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: '[https://twitter.com/JennaAbrahamson'
+        - icon: linkedin
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+          name: Connect
+          link: 'https://www.linkedin.com/in/jenna-abrahamson'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
