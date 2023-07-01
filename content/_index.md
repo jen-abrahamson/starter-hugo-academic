@@ -16,20 +16,13 @@ sections:
       title: Skills
       items:
         - name: R
-          description: 90%
           icon: r-project
           icon_pack: fab
         - name: Python
-          description: 100%
-          icon: python-project
+          icon: python
           icon_pack: fab
         - name: Remote Sensing
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
-        - name: Statistics
-          description: 10%
-          icon: camera-retro
+          icon: satellite
           icon_pack: fas
   - block: experience
     content:
@@ -43,19 +36,18 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: PhD Intern
+          company: Pacific Northwest National Lab
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: org-pnnl
+          location: Remote
+          date_start: '2023-06'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Developing strategies to characterize flooding/inundation at local and global scales integrating remote sensing, machine                   learning, and time series techniques
+
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
