@@ -24,43 +24,6 @@ sections:
         - name: Remote Sensing
           icon: satellite
           icon_pack: fas
-  - block: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: PhD Intern
-          company: Pacific Northwest National Lab
-          company_url: ''
-          company_logo: org-pnnl
-          location: Remote
-          date_start: '2023-06-01'
-          date_end: ''
-          description: |1-
-
-              * Developing strategies to characterize flooding/inundation at local and global scales integrating remote sensing, machine                   learning, and time series techniques
-
-        - title: Graduate Research Assistant
-          company: Center for Geospatial Analytics, North Carolina State University
-          company_url: ''
-          company_logo: org-x
-          location: North Carolina
-          date_start: '2021-08-01'
-          date_end: '2023-06-01'
-          description: |3-
-              * Helped develop and implement roboBayes, a Bayesian-based change detection algorithm used to flag areas of change using     
-                multi-source and multi-temporal remotely sensed data in an online monitoring mode.
-              * Used high-performance computing to run algorithms on big data sets through NC State’s cluster computing facility.
-              * Worked side by side with data science industry partners at Accenture Federal Services
-    design:
-      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
