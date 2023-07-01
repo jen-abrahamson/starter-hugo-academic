@@ -41,9 +41,9 @@ sections:
           company_url: ''
           company_logo: org-pnnl
           location: Remote
-          date_start: '2023-06'
+          date_start: '2023-06-01'
           date_end: ''
-          description: |2-
+          description: |1-
 
               * Developing strategies to characterize flooding/inundation at local and global scales integrating remote sensing, machine                   learning, and time series techniques
 
@@ -52,8 +52,9 @@ sections:
           company_url: ''
           company_logo: org-x
           location: North Carolina
-          date_start: '2021-08'
-          date_end: '2023-06'
+          date_start: '2021-08-01'
+          date_end: '2023-06-01'
+          description: |3-
               * Helped develop and implement roboBayes, a Bayesian-based change detection algorithm used to flag areas of change using     
                 multi-source and multi-temporal remotely sensed data in an online monitoring mode.
               * Used high-performance computing to run algorithms on big data sets through NC State’s cluster computing facility.
