@@ -44,18 +44,20 @@ sections:
           date_start: '2023-06'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
               * Developing strategies to characterize flooding/inundation at local and global scales integrating remote sensing, machine                   learning, and time series techniques
 
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Research Assistant
+          company: Center for Geospatial Analytics, North Carolina State University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: North Carolina
+          date_start: '2021-08'
+          date_end: '2023-06'
+              * Helped develop and implement roboBayes, a Bayesian-based change detection algorithm used to flag areas of change using     
+                multi-source and multi-temporal remotely sensed data in an online monitoring mode.
+              * Used high-performance computing to run algorithms on big data sets through NC State’s cluster computing facility.
+              * Worked side by side with data science industry partners at Accenture Federal Services
     design:
       columns: '2'
   - block: accomplishments
