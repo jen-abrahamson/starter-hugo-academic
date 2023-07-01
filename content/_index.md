@@ -11,23 +11,10 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: Remote Sensing
-          icon: satellite
-          icon_pack: fas
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Recent&shy;News'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -90,6 +77,19 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          icon: python
+          icon_pack: fab
+        - name: Remote Sensing
+          icon: satellite
+          icon_pack: fas
   - block: markdown
     content:
       title: Visualization Gallery
