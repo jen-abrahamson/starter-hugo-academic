@@ -159,8 +159,6 @@ sections:
     content:
       title: Contact Me
       subtitle:
-      text: |-
-      Feel free to reach out to me! I welcome the chance to connect and collaborate with others.
       # Contact (add or remove contact options as necessary)
       email: jnabraha@ncsu.edu
       contact_links:
