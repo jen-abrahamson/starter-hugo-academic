@@ -38,7 +38,7 @@ education:
     - course: PhD in Geospatial Analytics
       institution: North Carolina State University
       year: 2021-Present
-    - course: Professional Certificate: Data Science
+    - course: Professional Certificate in Data Science
       institution: Stanford University
       year: 2020
     - course: BSc in Environmental Science, Geology
@@ -82,5 +82,5 @@ email: 'jnabraha@ncsu.edu'
 highlight_name: true
 ---
 
-I am a Geospatial Analytics PhD student in the [SEAL](https://ncsu-seal.netlify.app/) lab at NCSU. My current research interests focus on using remote sensing to locate and characterize land surface changes across regional to global scales in near-real time. Additionally, I am also interested in developing methods to better map short-term inundation changes through time and their subsequent impact on biogeochemical processes related to carbon storage and methane emissions. More broadly, I have an interest in developing remote sensing methods that use principles from machine learning, data assimilation, and Bayesian statistics.
+I am a Geospatial Analytics PhD student in the [SEAL](https://ncsu-seal.netlify.app/) lab at NCSU. My current research interests focus on using remote sensing to locate and characterize land surface changes across regional to global scales in near-real time. Additionally, I am also interested in developing methods to better map short-term inundation changes through time and their subsequent impact on biogeochemical processes related to carbon storage and methane emissions. More broadly, I have an interest in developing remote sensing methods spanning the realm of machine learning, data assimilation, time series techniques, and Bayesian statistics.
 {style="text-align: justify;"}
