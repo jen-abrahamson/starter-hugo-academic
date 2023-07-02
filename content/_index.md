@@ -30,14 +30,12 @@ sections:
           organization_url: https://www.pnnl.gov/
           title: 'PhD Intern @ PNNL'
         - date_start: '2023-04-03'
-          description:|2-
-          'Coauthor on a conference paper accepted for presentation and publication at IEEE International Geoscience and Remote Sensing               Symposium'
+          description:'Coauthor on a conference paper accepted for IEEE International Geoscience and Remote Sensing Symposium'
           organization: 'IEEE IGARSS'
           organization_url: https://2023.ieeeigarss.org/
           title: 'Paper Accepted to IEEE IGARSS'
         - date_start: '2023-03-01'
-          description: 'Awarded the NSF GRFP, an award that recognizes and supports outstanding graduate students who are pursuing full-time research-based master's and doctoral degrees in science, technology, engineering, and mathematics (STEM) or in STEM education.'
-          organization: 'National Science Foundation'
+          description: 'Awarded the NSF GRFP, to begin in August 2023.'
           organization_url: https://www.nsfgrfp.org/
           title: 'Awarded NSF GRFP'
     design:
