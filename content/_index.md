@@ -30,7 +30,7 @@ sections:
           organization_url: https://www.pnnl.gov/
           title: 'PhD Intern @ PNNL'
         - date_start: '2023-04-03'
-          description:'Coauthor on a conference paper submitted to IEEE International Geoscience and Remote Sensing Symposium'
+          description:'Coauthor on a conference paper submitted to IEEE IGARSS'
           organization: 'IEEE IGARSS'
           organization_url: https://2023.ieeeigarss.org/
           title: 'Paper Accepted to IEEE IGARSS'
