@@ -43,7 +43,7 @@ sections:
       - certificate_url: ''
           date_end: ''
           date_start: '2023-05-23'
-          description: 'Received news of NSF GRFP award, set to start August 1st, 2023'
+          description: 'Received news of NSF GRFP award, set to start August 1st'
           organization: National Science Foundation
           organization_url: https://www.nsfgrfp.org/
           title: Awarded NSF GRFP
