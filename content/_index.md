@@ -24,21 +24,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - date_start: '2023-06-01'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-06-02'
           description: 'Started an internship at Pacific Northwest National Lab'
-          organization: 'Pacific Northwest National Lab'
+          organization: Pacific Northwest National Lab
           organization_url: https://www.pnnl.gov/
-          title: 'PhD Intern at PNNL'
-        - date_start: '2023-04-01'
-          description:'Coauthor on a conference paper submitted to IEEE IGARSS'
-          organization: 'IEEE IGARSS'
-          organization_url: https://2023.ieeeigarss.org/
-          title: 'Paper Accepted to IEEE IGARSS'
-        - date_start: '2023-03-01'
-          description: 'Awarded the NSF GRFP, to begin in August 2023.'
-          organization: 'National Science Foundation'
-          organization_url: https://www.nsfgrfp.org/
-          title: 'Awarded NSF GRFP'
+          title: PhD Intern @ PNNL
+          url: ''
     design:
       columns: '2'
   - block: portfolio
