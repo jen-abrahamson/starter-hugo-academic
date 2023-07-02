@@ -28,7 +28,7 @@ sections:
           description: 'Started an internship at Pacific Northwest National Lab'
           organization: 'Pacific Northwest National Lab'
           organization_url: https://www.pnnl.gov/
-          title: 'PhD Intern @ PNNL'
+          title: 'PhD Intern at PNNL'
         - date_start: '2023-04-03'
           description:'Coauthor on a conference paper submitted to IEEE IGARSS'
           organization: 'IEEE IGARSS'
