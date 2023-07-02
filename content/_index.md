@@ -32,6 +32,22 @@ sections:
           organization_url: https://www.pnnl.gov/
           title: PhD Intern @ PNNL
           url: ''
+       - certificate_url: ''
+          date_end: ''
+          date_start: '2023-04-03'
+          description: 'Coauthor on a paper accepted for the IEEE International Geoscience & Remote Sensing Symposium'
+          organization: IEEE
+          organization_url: https://2023.ieeeigarss.org/
+          title: Paper Accepted to IEE IGARSS
+          url: ''
+      - certificate_url: ''
+          date_end: ''
+          date_start: '2023-05-23'
+          description: 'Received news of NSF GRFP award, set to start August 1st, 2023'
+          organization: National Science Foundation
+          organization_url: https://www.nsfgrfp.org/
+          title: Awarded NSF GRFP
+          url: ''
     design:
       columns: '2'
   - block: portfolio
