@@ -34,13 +34,11 @@ sections:
           organization: 'IEEE IGARSS'
           organization_url: https://2023.ieeeigarss.org/
           title: 'Paper Accepted to IEEE IGARSS'
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - date_start: '2023-03-01'
           description: 'Awarded the NSF GRFP, an award that recognizes and supports outstanding graduate students who are pursuing full-time research-based master's and doctoral degrees in science, technology, engineering, and mathematics (STEM) or in STEM education.'
           organization: 'National Science Foundation'
           organization_url: https://www.nsfgrfp.org/
           title: 'Awarded NSF GRFP'
-          url: ''
     design:
       columns: '2'
   - block: portfolio
