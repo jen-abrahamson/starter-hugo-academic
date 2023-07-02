@@ -24,29 +24,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
+        - date_start: '2023-06-01'
+          description: 'Started an internship at Pacific Northwest National Lab'
+          organization: Pacific Northwest National Lab
+          organization_url: https://www.pnnl.gov/
+          title: PhD Intern @ PNNL
+        - date_start: '2023-04-03'
+          description: 'Coauthor on a conference paper accepted for presentation and publication at IEEE International Geoscience and                Remote Sensing Symposium'
+          organization: IEEE IGARSS
+          organization_url: https://2023.ieeeigarss.org/
+          title: Paper Accepted to IEEE IGARSS
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+        - date_start: '2023-03-01'
+          description: 'Awarded the NSF GRFP, an award that recognizes and supports outstanding graduate students who are pursuing     
+          full-time research-based master's and doctoral degrees in science, technology, engineering, and mathematics (STEM) or in STEM 
+          education.'
+          organization: National Science Foundation
+          organization_url: https://www.nsfgrfp.org/
+          title: 'Awarded NSF GRFP'
           url: ''
     design:
       columns: '2'
