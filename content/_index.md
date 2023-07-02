@@ -31,12 +31,12 @@ sections:
           organization: Pacific Northwest National Lab
           organization_url: https://www.pnnl.gov/
           title: PhD Intern @ PNNL
-          url: ''
+          url: 'https://www.pnnl.gov/'
         - certificate_url: ''
           date_end: ''
           date_start: '2021-04-01'
           description: Coauthor on a paper accepted for the IEEE International Geoscience & Remote Sensing Symposium.
-          organization: IEEE
+          organization: Institute of Electrical and Electronics Engineers
           organization_url: https://2023.ieeeigarss.org/
           title: Paper Accepted to IEEE IGARSS
           url: ''
