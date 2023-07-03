@@ -128,9 +128,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: jnabraha@ncsu.edu
       address:
         city: Raleigh
         region: NC
