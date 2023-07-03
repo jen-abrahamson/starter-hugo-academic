@@ -67,10 +67,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Inundation/Biogeochemistry
-          tag: Inundation/Biogeochemistry
-        - name: Change Detection
-          tag: Change Detection
+        - name: NSF Research
+          tag: NSF Research
+        - name: IARPA MUTATED
+          tag: IARPA MUTATED
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
