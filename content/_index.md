@@ -90,14 +90,6 @@ sections:
         - name: Remote Sensing
           icon: satellite
           icon_pack: fas
-  - block: markdown
-    content:
-      title: Visualization Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     content:
       title: Publications
@@ -122,6 +114,14 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: markdown
+    content:
+      title: Visualization Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: contact
     id: contact
     content:
