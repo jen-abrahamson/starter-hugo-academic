@@ -77,19 +77,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          icon: r-project
-          icon_pack: fab
-        - name: Python
-          icon: python
-          icon_pack: fab
-        - name: Remote Sensing
-          icon: satellite
-          icon_pack: fas
   - block: collection
     content:
       title: Publications
@@ -114,6 +101,19 @@ sections:
     design:
       columns: '2'
       view: compact
+- block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          icon: r-project
+          icon_pack: fab
+        - name: Python
+          icon: python
+          icon_pack: fab
+        - name: Remote Sensing
+          icon: satellite
+          icon_pack: fas
   - block: markdown
     content:
       title: Visualization Gallery
