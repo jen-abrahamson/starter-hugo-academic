@@ -116,7 +116,7 @@ sections:
       title: Visualization Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="gallery" >}}
     design:
       columns: '1'
   - block: contact
