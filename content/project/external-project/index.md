@@ -1,6 +1,6 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: IARPA SMART Research
+summary: Research on developing methods to automate the broad-area search of multi-source satellite imagery to detect, monitor, and characterize the progression of anthropogenic or natural processes.
 tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://example.org
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: United Emirates
   focal_point: Smart
 ---
