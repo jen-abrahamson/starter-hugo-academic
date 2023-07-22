@@ -5,10 +5,22 @@ tags:
   - Demo
 date: "2016-04-27T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: https://example.org
 
 image:
   caption: United Emirates
   focal_point: Smart
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+slides: example
+---
+**MUTATED: Modeling and Understanding using Temporal Analysis of Transient Earth Data**
+&nbsp;
+
+Part of the [IARPA SMART Program](https://www.iarpa.gov/research-programs/smart), our goal is to build methods capable of very quickly flagging likely changes on Earth’s surface, over very large spatial scales. 
+
+&nbsp;
 ---
