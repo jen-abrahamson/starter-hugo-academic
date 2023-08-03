@@ -10,7 +10,7 @@ image:
 
 
 ---
-## **MUTATED: Modeling and Understanding using Temporal Analysis of Transient Earth Data**
+# **MUTATED: Modeling and Understanding using Temporal Analysis of Transient Earth Data**
 &nbsp;
 
 For my research assistantship, I am a member of the MUTATED team. The MUTATED team is part of IARPA's (Intelligence Advanced Research Projects Activity) [Space-Based Machine Automated Recognition Technique (SMART) Program]((https://www.iarpa.gov/research-programs/smart) working to automate broad-area search of multi-source satellite imagery to detect, monitor, and characterize the progression of anthropogenic or natural processes.
