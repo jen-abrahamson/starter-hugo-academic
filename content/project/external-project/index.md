@@ -27,7 +27,7 @@ To aid in eliminating false positives and classifying changes related to heavy c
 ### Machine Learning Change Characterization
 To create a method more robust than the heuristic-based filters established previously, I developed a machine learning-based characterization module where I tested Random Forest and Extreme Gradient Boosting Methods with a variety of features for classifying changes as construction or not construction. These models were trained using detected changes from regions all across the globe and showed significant improvement in F1 scores for heavy construction change detection.
 
-#### Associated Articles 
+## Associated Articles 
 
 * [Spotting Objects From Space Is Easy. This Challenge Is Harder](https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/) 
 * [New IARPA-Funded Research Will Improve Accuracy and Efficiency of Analyzing Geospatial Imagery Across Large Scales](https://cnr.ncsu.edu/geospatial/news/2021/02/08/new-research-will-improve-accuracy-efficiency-of-imagery-analysis/)
