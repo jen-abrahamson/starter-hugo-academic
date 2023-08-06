@@ -21,4 +21,7 @@ Biogeochemical processes are strongly influenced by hydrology, particularly in l
 
 *This project is currently in progress, please check back for updates!*
 
-&nbsp;
+## Associated Articles 
+
+* [Capturing Changes in Wetlands from Space](https://cnr.ncsu.edu/news/2023/08/jenna-abrahamson-develops-remote-sensing-methods-to-predict-flooding/)
+* [CNR Summer Internship Series](https://cnr.ncsu.edu/news/2023/08/jenna-abrahamson-develops-remote-sensing-methods-to-predict-flooding/)
