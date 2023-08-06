@@ -1,13 +1,16 @@
 ---
-title: "An example journal article"
+title: "Assessment of Performance of Tree-Based Algorithms to Reduce Errors of Omission and Commission in Change Detection"
 authors:
-- admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+  - Peter Rasmussen
+  - Jenna Abrahamson
+  - Xiaojing Tang
+  - Owen Smith
+  - Josh Gray
+  - Curtis Woodcock
+  - Marc Bosch Ruiz
+
+date: '2023-07-18T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
