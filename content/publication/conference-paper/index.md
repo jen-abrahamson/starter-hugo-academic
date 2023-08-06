@@ -36,9 +36,9 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://2023.ieeeigarss.org/view_session.php?SessionID=1087"
-url_pdf: "IGARSS_2023.pdf"
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Overview of methodology including the broad area search pipeline and machine learning module.'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""
   preview_only: false
 
@@ -67,3 +67,13 @@ projects: [external-project]
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
