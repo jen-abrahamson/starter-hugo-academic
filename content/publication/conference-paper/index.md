@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/publication/conference-paper/IGARSS_2023.pdf'
+url_pdf: [content/publication/conference-paper/IGARSS_2023.pdf]
 url_code: ''
 url_dataset: ''
 url_poster: ''
