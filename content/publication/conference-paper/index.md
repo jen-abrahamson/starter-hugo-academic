@@ -1,61 +1,53 @@
 ---
-title: 'Assessment of Performance of Tree-Based Algorithms to Reduce Errors of Omission and Commission in Change Detection'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "An example journal article"
 authors:
-  - Peter Rasmussen
-  - Jenna Abrahamson
-  - Xiaojing Tang
-  - Owen Smith
-  - Josh Gray
-  - Curtis Woodcock
-  - Marc Bosch Ruiz
-
-date: '2023-07-18T00:00:00Z'
-doi: ''
+- admin
+- Robert Ford
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-08-03T00:00:00Z'
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Geoscience and Remote Sensing Symposium*
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-abstract: The ability to detect land use and land cover change quickly and accurately is crucial for earth system modeling, policy making, and sustainable land management.Remote sensing has been widely used to map and monitor land use and land cover change over very large areas. Many change detection algorithms (CDAs) have been developed with promising accuracy. However, accuracy of detecting specific types of change using these algorithms is often not satisfactory owing to errors of commission. We present a novel pixel-based broad area search (BAS) approach that detects and classifies heavy construction, which is an important indicator of human development and of interest to the intelligence community. The BAS system combines an online CDA, roboBayes, with a supervised tree based classifier that removes the CDA’s errors of commission. To assess the performance of the classifier, we examined three tree-based algorithms – decision tree, random forest, and LightGBM – trained on roboBayes model parameters, tuning the models using a leave-one-region-out cross-validation strategy. We compared the performance of the tree-based classifiers against a baseline of filters created by the authors. Performance was evaluated at the pixel-level using precision, recall, and F1-score, which are analogues of commission error, omission error, and accuracy, respectively. The BAS system with optimized tree-based filters performed nearly 80% better than the BAS system without any filters and more than 50% better than the authors’ filters.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
+tags:
+- Source Themes
+featured: false
 
-tags: [Change Detection, Machine Learning]
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
+# - name: ""
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
   preview_only: false
 
 # Associated Projects (optional).
@@ -63,8 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - IARPA SMART
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -75,8 +66,14 @@ slides: example
 ---
 
 {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
+
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
 
 {{% callout note %}}
 Create your slides in Markdown - click the _Slides_ button to check out the example.
