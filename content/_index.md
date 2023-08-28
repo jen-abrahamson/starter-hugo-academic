@@ -67,10 +67,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: NSF Research
-          tag: NSF Research
-        - name: IARPA SMART
-          tag: IARPA SMART
+        - name: Water & Methane
+          tag:  'Water & Methane'
+        - name: Change Detection
+          tag: 'Change Detection'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
