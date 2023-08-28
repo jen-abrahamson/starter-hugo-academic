@@ -67,8 +67,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Water & Methane
-          tag:  'Water & Methane'
+        - name: Water & Biogeochemistry
+          tag:  'Water & Biogeochemistry'
         - name: Change Detection
           tag: 'Change Detection'
     design:
