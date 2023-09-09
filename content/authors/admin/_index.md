@@ -28,9 +28,9 @@ bio: My research interests include remote sensing and data science
 interests:
   - Remote Sensing
   - Machine Learning
+  - Data Fusion
   - Bayesian Statistics
   - Earth Science
-  - Climate Change
 
 # Education to show in About widget
 education:
@@ -82,5 +82,5 @@ email: 'jnabraha@ncsu.edu'
 highlight_name: true
 ---
 
-I am a Geospatial Analytics PhD student in the [SEAL](https://ncsu-seal.netlify.app/) lab at NCSU. My current research interests focus on using remote sensing to locate and characterize land surface changes across regional to global scales in near-real time. Additionally, I am also interested in developing methods to better map short-term inundation changes through time and their subsequent impact on biogeochemical processes related to carbon storage and methane emissions. More broadly, I have an interest in remote sensing applications of machine learning, data assimilation, time series techniques, and Bayesian statistics.
+I am a Geospatial Analytics PhD student in the [SEAL](https://ncsu-seal.netlify.app/) lab at NCSU. My current research interests focus on using remote sensing to locate and characterize land surface changes across regional to global scales in near-real time. I am also interested in developing methods to better map short-term inundation changes through time and their subsequent impact on biogeochemical processes related to carbon storage and methane emissions. More broadly, I have an interest in remote sensing applications of machine learning, data assimilation and fusion, time series techniques, and Bayesian statistics.
 {style="text-align: justify;"}
