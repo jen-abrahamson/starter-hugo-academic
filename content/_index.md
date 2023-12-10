@@ -26,6 +26,14 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2023-11-02'
+          description: 'Passed both my written and oral preliminary exams.'
+          organization: Center for Geospatial Analytics, NCS
+          organization_url: https://cnr.ncsu.edu/geospatial/)
+          title: Became a Ph.D. Candidate!
+          url: 'https://www.pnnl.gov/'
+        - certificate_url: ''
+          date_end: ''
           date_start: '2023-06-02'
           description: 'Started an internship at Pacific Northwest National Lab'
           organization: Pacific Northwest National Lab
