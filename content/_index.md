@@ -36,8 +36,8 @@ sections:
           date_start: '2023-08-02'
           description: 'Received NASA FINESST Research Grant'
           organization: NASA
-          organization_url: https://cnr.ncsu.edu/geospatial/)
-          title: Proposal titled "Quantifying the Ephemeral: Integrating Satellite Observations with Physical Models to Map Daily Inundation and Capture Short-Term Methane Emissions" was funded.
+          organization_url: https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=957105/solicitationId=%7BEA8742DF-E6E6-67E9-4D56-267EF31C1CDB%7D/viewSolicitationDocument=1/FINESST-22%20Earth%20Science%20Division%20Selections%20August%2016%202023.pdf
+          title: Proposal focused on mapping daily inundation with satellites to capture short-term methane emissions was funded.
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-02'
