@@ -28,10 +28,17 @@ sections:
           date_end: ''
           date_start: '2023-11-02'
           description: 'Passed both my written and oral preliminary exams.'
-          organization: Center for Geospatial Analytics, NCS
+          organization: Center for Geospatial Analytics, NCSU
           organization_url: https://cnr.ncsu.edu/geospatial/)
           title: Became a Ph.D. Candidate!
-          url: 'https://www.pnnl.gov/'
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-08-02'
+          description: 'Received NASA FINESST Research Grant'
+          organization: NASA
+          organization_url: https://cnr.ncsu.edu/geospatial/)
+          title: Proposal titled Quantifying the Ephemeral: Integrating Satellite Observations with Physical Models to Map Daily 
+          Inundation and Capture Short-Term Methane Emissions was funded.
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-02'
