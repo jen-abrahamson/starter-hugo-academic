@@ -34,10 +34,10 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-08-02'
-          description: 'Proposal on mapping daily inundation with satellites to capture short-term methane emissions was funded.'
+          description: 'Proposal on mapping daily inundation with satellites to capture methane emissions was funded.'
           organization: NASA
           organization_url: https://www.nasa.gov/
-          title: Recieved NASA FINESST research grant.
+          title: Recieved NASA FINESST grant.
         - certificate_url: ''
           date_end: ''
           date_start: '2023-06-02'
