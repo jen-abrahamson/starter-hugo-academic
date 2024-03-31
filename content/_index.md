@@ -29,7 +29,7 @@ sections:
           date_start: '2024-04-19'
           description: 'Coauthor on review manuscript with collaborators at PNNL accepted for preprint and public peer review.'
           organization: EGU Biogeosciences
-          organization_url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-98/)
+          organization_url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-98/
           title: Paper Posted for Public Peer Review
         - certificate_url: ''
           date_end: ''
