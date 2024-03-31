@@ -26,6 +26,13 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
+          date_start: '2024-04-19'
+          description: 'Coauthor on review manuscript with collaborators at PNNL accepted for preprint and public peer review.'
+          organization: EGU Biogeosciences
+          organization_url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-98/)
+          title: Paper Posted for Public Peer Review
+        - certificate_url: ''
+          date_end: ''
           date_start: '2023-11-02'
           description: 'Passed both my written and oral preliminary exams.'
           organization: Center for Geospatial Analytics, NCSU
@@ -38,30 +45,6 @@ sections:
           organization: NASA
           organization_url: https://www.nasa.gov/
           title: Received NASA FINESST Grant
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-06-02'
-          description: 'Started an internship at Pacific Northwest National Lab'
-          organization: Pacific Northwest National Lab
-          organization_url: https://www.pnnl.gov/
-          title: PhD Intern @ PNNL
-          url: 'https://www.pnnl.gov/'
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2021-04-01'
-          description: Coauthor on a paper accepted for the IEEE International Geoscience & Remote Sensing Symposium.
-          organization: Institute of Electrical and Electronics Engineers
-          organization_url: https://2023.ieeeigarss.org/
-          title: Paper Accepted to IEEE IGARSS
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-05-01'
-          description: 'Received news of NSF GRFP award, set to start August 1st'
-          organization: National Science Foundation
-          organization_url: https://www.nsfgrfp.org/
-          title: 'Awarded NSF GRFP'
-          url: ''
     design:
       columns: '2'
   - block: portfolio
