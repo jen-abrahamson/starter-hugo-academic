@@ -1,5 +1,5 @@
 ---
-title: Variable Inundation Across Ecosystems
+title: Variable Inundation Across Earth's Ecosystems
 summary: Research focused on mapping hydrologic dynamics and inundation across a variety of ecosystems including wetlands, non-perennial streams, floodplains, hillslopes, and more using remote sensing.
 date: '2016-04-27T00:00:00Z'
 
