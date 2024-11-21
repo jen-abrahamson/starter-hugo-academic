@@ -10,7 +10,7 @@ abstract: 'Sponsored by the CNR Research Office, this event showcases and celebr
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-03-22T13:00:00Z'
-date_end: '2024-03-22T14:00:00Z'
+date_end: '2024-03-22T15:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
