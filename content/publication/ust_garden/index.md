@@ -50,7 +50,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Conceptual model of variable inundation in floodplain and parafluvial systems.'
+  caption: 'Results of BSM on Water Quality'
   focal_point: ""
   preview_only: false
 
