@@ -4,8 +4,7 @@ title: CNR Graduate Research Symposium
 event: CNR Graduate Research Symposium
 event_url: https://research.cnr.ncsu.edu/graduateresearchsymposium/
 
-
-summary: Sponsored by the CNR Research Office, this event showcases and celebrates the outstanding research, teaching, and extension of graduate students, post-doctoral researchers, and their faculty advisers or mentors in the Departments of Forestry and Environmental Resources, Forest Biomaterials, and Parks, Recreation and Tourism Management, and the Center for Geospatial Analytics, in the College of Natural Resources at NC State University.
+summary:Sponsored by the CNR Research Office, this event showcases and celebrates the outstanding research, teaching, and extension of graduate students, post-doctoral researchers, and their faculty advisers or mentors in the Departments of Forestry and Environmental Resources, Forest Biomaterials, and Parks, Recreation and Tourism Management, and the Center for Geospatial Analytics, in the College of Natural Resources at NC State University.
 
 The Symposium includes a poster competition and a three-minute thesis (3MT) competition.
 
