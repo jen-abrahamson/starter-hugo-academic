@@ -25,7 +25,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Title Slide'
+  caption: 'Award Acceptance'
   focal_point: Right
 
 links:
