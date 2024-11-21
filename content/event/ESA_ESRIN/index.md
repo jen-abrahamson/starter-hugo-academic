@@ -7,7 +7,7 @@ event_url: https://www.esa.int/About_Us/ESRIN/
 location: Frascati, Italy
 
 summary: Visited and Presented at ESA's ESRIN office. 
-Summary: Visited PI Dr. Josh Gray who was serving a sabbatical as a Visiting Scientist at the European Space Agency's ESRIN office in Frascati, Italy. We got the chance to present to ESA's Science Hub Team and get a tour of the facilities.
+abstract: Visited PI Dr. Josh Gray who was serving a sabbatical as a Visiting Scientist at the European Space Agency's ESRIN office in Frascati, Italy. We got the chance to present to ESA's Science Hub Team and get a tour of the facilities.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
