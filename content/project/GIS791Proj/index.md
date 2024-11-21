@@ -14,6 +14,7 @@ image:
 
 ---
 **Flood Mapping with Prithvi**
+
 &nbsp;
 This project is currently in the process of being submitted for publication - more details to come once it is submitted!
 &nbsp;
