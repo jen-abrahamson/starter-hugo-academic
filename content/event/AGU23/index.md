@@ -1,5 +1,5 @@
 ---
-title: Monitoring Inundation Dynamics in Coastal Wetlands Using Time Series of Sentinel and PlanetScope Data.
+title: Monitoring Inundation Dynamics in Coastal Wetlands Using Time Series of Sentinel and PlanetScope Data
 event: AGU Annual Meeting
 event_url: https://www.agu.org/
 
