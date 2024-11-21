@@ -6,7 +6,7 @@ authors:
   - Jenna Abrahamson
   - Ranga Vatsavai
 
-date: '2024-03-08T00:00:00Z'
+date: '2025-08-29T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_types: ["1"]
 publication: "*International Conference on GIS*"
 publication_short: ""
 
-abstract: 
+abstract: In preparation to be submitted to the International Conference on GIS in January 2025, please check back later for updates.
 
 # Summary. An optional shortened abstract.
 summary: 
