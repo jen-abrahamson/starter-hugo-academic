@@ -1,7 +1,6 @@
 ---
 title: Visited and Presented at ESA's ESRIN Office in Frascati, Italy
 
-
 event: Visited and Presented at ESA's ESRIN Office
 event_url: https://www.esa.int/About_Us/ESRIN/
 
@@ -12,7 +11,7 @@ abstract: 'Visited PI Dr. Josh Gray who was serving a sabbatical as a Visiting S
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-04-24T09:00:00Z'
+date: '2024-04-24T13:00:00Z'
 date_end: '2024-04-24T15:00:00Z'
 all_day: false
 
