@@ -25,7 +25,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Title Slide'
+  caption: 'CGA Forum'
   focal_point: Right
 
 links:
