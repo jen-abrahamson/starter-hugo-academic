@@ -26,11 +26,11 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2024-10-08'
+          date_start: '2025-02-24'
           description: 'Review manuscript with collaborators at PNNL accepted for publication!'
-          organization: EGU Biogeosciences
-          organization_url: https://egusphere.copernicus.org/preprints/2024/egusphere-2024-98/
-          title: Paper Accepted for Publication in EGU Biogeosciences
+          organization: Link to Paper in EGU Biogeosciences
+          organization_url: https://bg.copernicus.org/articles/22/995/2025/
+          title: Co-Authored Paper Published in EGU Biogeosciences
         - certificate_url: ''
           date_end: ''
           date_start: '2023-11-02'
