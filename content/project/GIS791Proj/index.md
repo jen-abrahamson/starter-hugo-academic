@@ -13,8 +13,8 @@ image:
 
 
 ---
+
 **Flood Mapping with Prithvi**
 
-&nbsp;
-This project is currently in the process of being submitted for publication - more details to come once it is submitted!
-&nbsp;
+I was part of a group taht developed U-Prithvi, a novel hybrid architecture that combines the strengths of transformer-based foundation models with convolutional neural networks for flood inundation mapping. While the Prithvi foundation model excels at generalization tasks, we identified limitations in capturing fine-grained spatial details. By integrating Prithvi with U-Net's architecture and introducing a RandomHalfMaskLayer for balanced learning, we achieved superior performance on flood detection tasks. Our testing on the Sen1Floods11 dataset demonstrates that U-Prithvi outperforms both individual models, particularly on out-of-sample data, while remaining adaptable to other foundation models. This project was started as part of North Carolina State University's Geospatial Artificial Intelligence course.
+
