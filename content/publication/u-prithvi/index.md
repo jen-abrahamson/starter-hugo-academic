@@ -35,8 +35,6 @@ tags:
 featured: true
 
 links:
-- name: DOI
-  url: 'https://doi.org/10.4230/LIPIcs.GIScience.2025.18'
 - name: Paper
   url: 'https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.GIScience.2025.18'
 url_pdf: 'https://drops.dagstuhl.de/storage/00lipics/lipics-vol346-giscience2025/LIPIcs.GIScience.2025.18/LIPIcs.GIScience.2025.18.pdf'
