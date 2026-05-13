@@ -26,25 +26,25 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2025-02-24'
-          description: 'Review manuscript with collaborators at PNNL accepted for publication!'
-          organization: Link to Paper in EGU Biogeosciences
-          organization_url: https://bg.copernicus.org/articles/22/995/2025/
-          title: Co-Authored Paper Published in EGU Biogeosciences
+          date_start: '2026-04-04'
+          description: 'Paper on statistical data fusion for wetland inundation monitoring now available as a preprint on EarthArXiv'
+          organization: Link to Preprint
+          organization_url: https://eartharxiv.org/repository/view/12485/
+          title: PhD Paper Available as Preprint
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-11-02'
-          description: 'Passed both my written and oral preliminary exams.'
-          organization: Center for Geospatial Analytics, NCSU
+          date_start: '2026-01-05'
+          description: 'Started at PNNL as a Linus Paluing Distinguished Postdoctoral Fellow'
+          organization: Pacific Northwest National Laboratory
           organization_url: https://cnr.ncsu.edu/geospatial/)
-          title: Became a Ph.D. Candidate!
+          title: Started at PNNL
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-08-02'
-          description: 'Proposal on mapping daily inundation with satellites to capture methane emissions was funded.'
-          organization: NASA
-          organization_url: https://www.nasa.gov/
-          title: Received NASA FINESST Grant
+          date_start: '2025-11-07'
+          description: 'Uncoditionally passed my PhD defense titled **Quantifying the Ephemeral: Tracking Wetland Inundation from Space to Understand Methane Dynamics**'
+          organization: North Carolina State University
+          organization_url: https://cnr.ncsu.edu/geospatial/event/geospatial-analytics-dissertation-defense-jenna-abrahamson/
+          title: Defended my PhD!
     design:
       columns: '2'
   - block: portfolio
