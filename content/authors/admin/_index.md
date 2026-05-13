@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jenna Abrahamson
+title: Jenna Abrahamson, PhD
 
 # Full name (for SEO)
 first_name: Jenna
@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Geospatial Analytics PhD Student
+role: Linus Pauling Distinguished Postdoc Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: North Carolina State  University
-    url: https://cnr.ncsu.edu/geospatial/
+  - name: Pacific Northwest National Laboratory
+    url: https://www.pnnl.gov/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing and data science
+bio: My research interests include remote sensing and GeoAI
 
 # Interests to show in About widget
 interests:
@@ -37,7 +37,7 @@ education:
   courses:
     - course: PhD in Geospatial Analytics
       institution: North Carolina State University
-      year: 2021-Present
+      year: 2021-2025
     - course: Professional Certificate in Data Science
       institution: Stanford University
       year: 2020
@@ -76,11 +76,15 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'jnabraha@ncsu.edu'
+email: 'jenna.abrahamson@pnnl.gov'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am a Geospatial Analytics PhD student in the [SEAL](https://ncsu-seal.netlify.app/) lab at NCSU. My current research interests focus on using remote sensing to locate and characterize land surface changes across regional to global scales in near-real time. For my dissertation, I've been developing methods to better map short-term inundation changes through time and their subsequent impact on biogeochemical processes related to carbon storage and methane emissions. More broadly, I am interested in remote sensing applications of GeoAI, data fusion, and spatio-temporal statistics for both Earth science and national security.
+I’m currently a Linus Pauling Distinguished Postdoctoral Fellow at Pacific Northwest National Laboratory. I’m formally trained as a remote sensing scientist—basically, I write code to wrangle massive amounts of numbers that map the Earth, and use them to try to tackle some of our planet’s biggest questions.
+
+Right now, I’m developing high-resolution monitoring methods to study water and carbon processes in wetland ecosystems using a fun mix of commercial satellite data, GeoAI foundation models, embeddings, and physics-based hydrologic models.
+
+Outside of work, you can find me trying to hike and backpack my way across the Pacific Northwest and taking any chance I get to start a new craft project.
 {style="text-align: justify;"}
