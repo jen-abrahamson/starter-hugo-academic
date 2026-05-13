@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jenna Abrahamson, PhD
+title: Jenna Abrahamson
 
 # Full name (for SEO)
 first_name: Jenna
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Linus Pauling Distinguished Postdoc Fellow
+role: Remote Sensing Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
