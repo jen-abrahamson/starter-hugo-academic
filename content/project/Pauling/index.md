@@ -1,5 +1,5 @@
 ---
-title: PNNL Pauling - Integrating Satellites, Physical Models, & Flux Towers
+title: PNNL Pauling, Integrating Satellites, Physical Models, & Flux Towers
 summary: Research focused on mapping hydrologic dynamics and inundation across a five different wetland ecosystems and flux tower locations using GeoAI methods with satellite imagery and hydrologic modeling with the Advanced Terrestrial Simulator (ATS). 
 date: '2016-04-27T00:00:00Z'
 
