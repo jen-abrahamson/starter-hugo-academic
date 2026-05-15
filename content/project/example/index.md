@@ -1,5 +1,5 @@
 ---
-title: Short-Term Inundation Impacts on Carbon Cycling
+title: NASA FINESST, Short-Term Inundation in NC Coastal Plain
 summary: Research focused on quantifying transient inundation dynamics to better understand carbon and methane cycling in wetland ecosystems over time.
 date: '2016-04-27T00:00:00Z'
 
