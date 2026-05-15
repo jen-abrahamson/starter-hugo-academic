@@ -52,7 +52,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'jnabraha@ncsu.edu'
+    link: 'jenna.abrahamson@pnnl.gov'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/JennaAbrahamson
