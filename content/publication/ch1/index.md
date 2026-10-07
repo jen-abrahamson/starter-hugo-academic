@@ -37,7 +37,7 @@ featured: true
 
 links:
 - name: Paper
-  url: '[https://eartharxiv.org/repository/view/12485/](https://spj.science.org/doi/abs/10.34133/remotesensing.1077)'
+  url: 'https://spj.science.org/doi/abs/10.34133/remotesensing.1077'
 url_pdf: 
 url_code: 
 url_dataset: 'https://github.com/jen-abrahamson/wetland_hydro_ml'
