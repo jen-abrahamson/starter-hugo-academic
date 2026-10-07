@@ -41,7 +41,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2025-11-07'
-          description: 'Uncoditionally passed my PhD defense titled **Quantifying the Ephemeral: Tracking Wetland Inundation from Space to Understand Methane Dynamics**'
+          description: 'Defended my dissertation titled **Quantifying the Ephemeral: Tracking Wetland Inundation from Space to Understand Methane Dynamics**'
           organization: North Carolina State University
           organization_url: https://cnr.ncsu.edu/geospatial/event/geospatial-analytics-dissertation-defense-jenna-abrahamson/
           title: Defended my PhD!
@@ -109,7 +109,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: jnabraha@ncsu.edu
+      email: jenna.abrahamson@pnnl.gov
       address:
         city: Raleigh
         region: NC
