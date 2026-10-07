@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Jenna Abrahamson # Website name
-baseURL: 'https://jenna-abrahamson.netlify.app' # Website URL
+baseURL: 'https://jenna-abrahamson.netlify.app/' # Website URL
 
 ############################
 ## LANGUAGE
