@@ -26,11 +26,11 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2026-04-04'
-          description: 'Paper on statistical data fusion for wetland inundation monitoring now available as a preprint on EarthArXiv'
-          organization: Link to Preprint
-          organization_url: https://eartharxiv.org/repository/view/12485/
-          title: PhD Paper Available as Preprint
+          date_start: '2026-09-01'
+          description: 'Paper on statistical data fusion for wetland inundation monitoring accepted in Journal of Remote Sensing'
+          organization: Link to article in press
+          organization_url: https://spj.science.org/doi/abs/10.34133/remotesensing.1077
+          title: PhD Paper Published
         - certificate_url: ''
           date_end: ''
           date_start: '2026-01-05'
@@ -111,15 +111,11 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: jenna.abrahamson@pnnl.gov
       address:
-        city: Raleigh
-        region: NC
+        city: Richland
+        region: WA
         country: United States
         country_code: US
       contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: Twitter
-          link: 'https://twitter.com/JennaAbrahamson'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
